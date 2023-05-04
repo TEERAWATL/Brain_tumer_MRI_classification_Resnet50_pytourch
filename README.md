@@ -20,5 +20,5 @@ The API will be accessible at http://127.0.0.1:5000/.
 
 To make a prediction, send a POST request with an image file to the /predict endpoint
 
-## Have a good day##
+## Have a good day
 
